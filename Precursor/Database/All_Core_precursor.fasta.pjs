@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "All_Core_precursor.fasta",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "./../Database/All_Core_precursor.fasta",
+  "number-of-letters": 72900,
+  "number-of-sequences": 2805,
+  "last-updated": "2024-06-26T13:10:00",
+  "number-of-volumes": 1,
+  "bytes-total": 482056,
+  "bytes-to-cache": 98282,
+  "files": [
+    "All_Core_precursor.fasta.pdb",
+    "All_Core_precursor.fasta.phr",
+    "All_Core_precursor.fasta.pin",
+    "All_Core_precursor.fasta.pot",
+    "All_Core_precursor.fasta.psq",
+    "All_Core_precursor.fasta.ptf",
+    "All_Core_precursor.fasta.pto"
+  ]
+}
